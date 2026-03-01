@@ -3,6 +3,10 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+.idea
+.gitignore
+Problem Solving.iml.
+README.md
 
 ### Eclipse ###
 .apt_generated
