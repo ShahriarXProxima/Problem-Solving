@@ -1,25 +1,28 @@
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 public class AntonAndPolyhedrons {
-   public static void main(String[] args) {
-       Scanner input = new Scanner(System.in);
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
 
-       int polyhedron = input.nextInt();
-       int faces = 0;
-       Map<String, Integer> antonsCollection = new HashMap<>();
+        if (!input.hasNextLine()) return;
+        int numberOfShapes = Integer.parseInt(input.nextLine());
+        int faces = 0;
 
-       antonsCollection.put("Tetrahedron", 4);
-       antonsCollection.put("cube", 6);
-       antonsCollection.put("Octahedron", 8);
-       antonsCollection.put("Dodecahedron", 12);
-       antonsCollection.put("Icosahedron", 20);
+        while (numberOfShapes-- > 0 && input.hasNextLine()) {
+            String polyhedrons = input.nextLine();
 
-       for(int i = 1; i<=polyhedron; i++ ){
-
-       }
-
+            if (polyhedrons.equals("Cube")) {
+                faces += 6;
+            } else if (polyhedrons.equals("Tetrahedron")) {
+                faces += 4;
+            } else if (polyhedrons.equals("Octahedron")) {
+                faces += 8;
+            } else if (polyhedrons.equals("Dodecahedron")) {
+                faces += 12;
+            } else if (polyhedrons.equals("Icosahedron")) {
+                faces += 20;
+            }
+        }
+        System.out.print(faces);
     }
-
 }

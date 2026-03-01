@@ -4,7 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca8345f1-1638-4864-aafa-1e17a10fe161" name="Changes" comment="" />
+    <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem Solving.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Problem Solving.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/AntonAndDanik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/ArrivalOfTheGeneral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/BearAndBigBrother.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/BeautifulMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/BeautifulYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/BitPlusPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/BoyOrGirl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/CalculatingFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/DivisibilityProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/DominoPiling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Drinks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Elephant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/GeorgeAndAccommodation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/HelpfulMaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/HitTheLottery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Hulk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/IWannaBeTheGuy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/InSearchOfAnEasyProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/InsomniaCure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/IsYourHorseShoeOnTheOtherHoof.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Magnets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/NearlyLuckyNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/NextRound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Pangram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/PetyaAndString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Presents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/QueueAtTheSchool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/SoldierAndBananas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/StoneOnTheTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Tram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Translation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/UltraFastMathematician.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/VanyaAndFence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Watermelon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/WayTooLongWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/WordCapitalization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Problem Solving/WrongSubtraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AntonAndPolyhedrons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AntonAndPolyhedrons.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,58 +57,48 @@
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
-      <entry key="_/mnt/Workplace/Problem Solving" value="3ALpoorbJISzDNlEYPYMUjcjWcM" />
+      <entry key="_/mnt/Workplace/Problem Solving" value="3AMZnglieu4hQxJN9eDF1o7lRjj" />
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="48" />
+    <option name="cachedIndexableFilesCount" value="46" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;ShahriarXProxima&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ShahriarXProxima"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:ShahriarXProxima/Problem-Solving.git&quot;,
-    &quot;accountId&quot;: &quot;9237b322-5ce0-4f42-8e7d-af8cb2026dbf&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:ShahriarXProxima/Problem-Solving.git",
+    "accountId": "9237b322-5ce0-4f42-8e7d-af8cb2026dbf"
   }
-}</component>
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="3ALpoorbJISzDNlEYPYMUjcjWcM" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3AMZnglieu4hQxJN9eDF1o7lRjj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.HitTheLottery.executor": "Run",
-    "Application.InsomniaCure.executor": "Run",
+    "Application.AntonAndPolyhedrons.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -75,6 +110,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -88,21 +126,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ca8345f1-1638-4864-aafa-1e17a10fe161" name="Changes" comment="" />
-      <created>1772381884416</created>
+      <changelist id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="" />
+      <created>1772404570118</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1772381884416</updated>
-      <workItem from="1772381889096" duration="1494000" />
-      <workItem from="1772397071815" duration="2530000" />
+      <updated>1772404570118</updated>
+      <workItem from="1772404572482" duration="325000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
