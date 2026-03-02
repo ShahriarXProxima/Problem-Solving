@@ -18,7 +18,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="46" />
+    <option name="cachedIndexableFilesCount" value="49" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -64,6 +64,7 @@
   "keyToString": {
     "Application.AntonAndLetters.executor": "Run",
     "Application.AntonAndPolyhedrons.executor": "Run",
+    "Application.CandiesAndTwoSisters.executor": "Run",
     "Application.FoxAndSnake.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -84,6 +85,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "terminal",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -102,7 +104,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772404570118</updated>
-      <workItem from="1772404572482" duration="4196000" />
+      <workItem from="1772404572482" duration="5202000" />
+      <workItem from="1772465839345" duration="755000" />
     </task>
     <servers />
   </component>
