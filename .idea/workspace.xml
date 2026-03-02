@@ -82,10 +82,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -105,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772404570118</updated>
       <workItem from="1772404572482" duration="5202000" />
-      <workItem from="1772465839345" duration="755000" />
+      <workItem from="1772465839345" duration="4012000" />
     </task>
     <servers />
   </component>
