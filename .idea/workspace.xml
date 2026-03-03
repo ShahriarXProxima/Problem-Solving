@@ -66,6 +66,7 @@
     "Application.AntonAndPolyhedrons.executor": "Run",
     "Application.CandiesAndTwoSisters.executor": "Run",
     "Application.FoxAndSnake.executor": "Run",
+    "Application.Games.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -105,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772404570118</updated>
       <workItem from="1772404572482" duration="5202000" />
-      <workItem from="1772465839345" duration="4012000" />
+      <workItem from="1772465839345" duration="5677000" />
     </task>
     <servers />
   </component>
