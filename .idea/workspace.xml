@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +18,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="52" />
+    <option name="cachedIndexableFilesCount" value="53" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -67,6 +67,7 @@
     &quot;Application.CandiesAndTwoSisters.executor&quot;: &quot;Run&quot;,
     &quot;Application.FoxAndSnake.executor&quot;: &quot;Run&quot;,
     &quot;Application.Games.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfRoundNumbers.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
@@ -110,7 +111,8 @@
       <workItem from="1772465839345" duration="5677000" />
       <workItem from="1772527473777" duration="83000" />
       <workItem from="1772561562421" duration="2600000" />
-      <workItem from="1772564669724" duration="1313000" />
+      <workItem from="1772564669724" duration="1436000" />
+      <workItem from="1772606423323" duration="1402000" />
     </task>
     <servers />
   </component>
