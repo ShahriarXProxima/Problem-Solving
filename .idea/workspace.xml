@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TheNewYearMeetingFriends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TheNewYearMeetingFriends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PoliceRecruits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PoliceRecruits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,7 @@
     "Application.CandiesAndTwoSisters.executor": "Run",
     "Application.FoxAndSnake.executor": "Run",
     "Application.Games.executor": "Run",
+    "Application.PoliceRecruits.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.SumOfRoundNumbers.executor": "Run",
     "Application.TheNewYearMeetingFriends.executor": "Run",
@@ -91,7 +92,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "settings.sync",
@@ -120,7 +121,7 @@
       <workItem from="1772564669724" duration="1436000" />
       <workItem from="1772606423323" duration="1402000" />
       <workItem from="1772640419630" duration="2296000" />
-      <workItem from="1772651508385" duration="953000" />
+      <workItem from="1772651508385" duration="3066000" />
     </task>
     <servers />
   </component>
