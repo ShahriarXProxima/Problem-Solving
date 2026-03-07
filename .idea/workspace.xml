@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SoftDrinking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SoftDrinking.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +19,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="54" />
+    <option name="cachedIndexableFilesCount" value="58" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -72,6 +73,7 @@
     "Application.FoxAndSnake.executor": "Run",
     "Application.Games.executor": "Run",
     "Application.PoliceRecruits.executor": "Run",
+    "Application.SoftDrinking.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.SumOfRoundNumbers.executor": "Run",
     "Application.TheNewYearMeetingFriends.executor": "Run",
@@ -122,6 +124,8 @@
       <workItem from="1772606423323" duration="1402000" />
       <workItem from="1772640419630" duration="2296000" />
       <workItem from="1772651508385" duration="4441000" />
+      <workItem from="1772817478732" duration="1014000" />
+      <workItem from="1772899231529" duration="381000" />
     </task>
     <servers />
   </component>
