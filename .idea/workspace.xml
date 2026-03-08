@@ -18,7 +18,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="58" />
+    <option name="cachedIndexableFilesCount" value="62" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -66,6 +66,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgainTwentyFive.executor": "Run",
     "Application.AmusingJoke.executor": "Run",
     "Application.AntonAndLetters.executor": "Run",
     "Application.AntonAndPolyhedrons.executor": "Run",
@@ -127,7 +128,10 @@
       <workItem from="1772640419630" duration="2296000" />
       <workItem from="1772651508385" duration="4441000" />
       <workItem from="1772817478732" duration="1014000" />
-      <workItem from="1772899231529" duration="6298000" />
+      <workItem from="1772899231529" duration="9410000" />
+      <workItem from="1772913184193" duration="12000" />
+      <workItem from="1772913700525" duration="130000" />
+      <workItem from="1772957451966" duration="402000" />
     </task>
     <servers />
   </component>
