@@ -22,7 +22,9 @@ public class AntonAndDanik {
             System.out.print("Danik");
         } else {
             System.out.print("Friendship");
+            // friendship is a lie
         }
 
     }
 }
+
