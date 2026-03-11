@@ -34,6 +34,6 @@ public class SerejaAndDima {
             serejaTurn = !serejaTurn;
         }
 
-        System.out.println(sereja + " " + dima);
+        System.out.print(sereja + " " + dima);
     }
 }
