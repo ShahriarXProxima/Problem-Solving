@@ -18,7 +18,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="63" />
+    <option name="cachedIndexableFilesCount" value="69" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -77,6 +77,7 @@
     &quot;Application.ILoveUsername.executor&quot;: &quot;Run&quot;,
     &quot;Application.NewYearAndHurry.executor&quot;: &quot;Run&quot;,
     &quot;Application.PoliceRecruits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SerejaAndDima.executor&quot;: &quot;Run&quot;,
     &quot;Application.SoftDrinking.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfRoundNumbers.executor&quot;: &quot;Run&quot;,
@@ -133,7 +134,8 @@
       <workItem from="1772913184193" duration="12000" />
       <workItem from="1772913700525" duration="130000" />
       <workItem from="1772957451966" duration="2561000" />
-      <workItem from="1773228191935" duration="96000" />
+      <workItem from="1773228191935" duration="4949000" />
+      <workItem from="1773299432822" duration="778000" />
     </task>
     <servers />
   </component>
