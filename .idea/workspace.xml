@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToMyCritics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToMyCritics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +75,7 @@
     "Application.FoxAndSnake.executor": "Run",
     "Application.GameWithInteger.executor": "Run",
     "Application.Games.executor": "Run",
+    "Application.HolidayOfEquality.executor": "Run",
     "Application.ILoveUsername.executor": "Run",
     "Application.NewYearAndHurry.executor": "Run",
     "Application.PoliceRecruits.executor": "Run",
@@ -83,6 +84,7 @@
     "Application.Sum.executor": "Run",
     "Application.SumOfRoundNumbers.executor": "Run",
     "Application.TheNewYearMeetingFriends.executor": "Run",
+    "Application.ToMyCritics.executor": "Run",
     "Application.YesOrYes.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -137,7 +139,7 @@
       <workItem from="1772957451966" duration="2561000" />
       <workItem from="1773228191935" duration="4949000" />
       <workItem from="1773299432822" duration="778000" />
-      <workItem from="1773608883521" duration="4817000" />
+      <workItem from="1773608883521" duration="5180000" />
     </task>
     <servers />
   </component>
