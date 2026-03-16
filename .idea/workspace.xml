@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ToMyCritics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToMyCritics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DislikeOfThrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DislikeOfThrees.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,7 @@
     "Application.AntonAndPolyhedrons.executor": "Run",
     "Application.BlankSpace.executor": "Run",
     "Application.CandiesAndTwoSisters.executor": "Run",
+    "Application.DislikeOfThrees.executor": "Run",
     "Application.FoxAndSnake.executor": "Run",
     "Application.GameWithInteger.executor": "Run",
     "Application.Games.executor": "Run",
@@ -139,7 +140,7 @@
       <workItem from="1772957451966" duration="2561000" />
       <workItem from="1773228191935" duration="4949000" />
       <workItem from="1773299432822" duration="778000" />
-      <workItem from="1773608883521" duration="5180000" />
+      <workItem from="1773608883521" duration="6070000" />
     </task>
     <servers />
   </component>
