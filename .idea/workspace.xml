@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PassingTheBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PassingTheBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/DislikeOfThrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/DislikeOfThrees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DislikeOfThrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DislikeOfThrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RightMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RightMaximum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +85,7 @@
     "Application.PassingTheBall.executor": "Run",
     "Application.PoliceRecruits.executor": "Run",
     "Application.PrependAndAppend.executor": "Run",
+    "Application.RightMaximum.executor": "Run",
     "Application.SerejaAndDima.executor": "Run",
     "Application.SoftDrinking.executor": "Run",
     "Application.Sum.executor": "Run",
@@ -143,7 +146,7 @@
       <workItem from="1772957451966" duration="2561000" />
       <workItem from="1773228191935" duration="4949000" />
       <workItem from="1773299432822" duration="778000" />
-      <workItem from="1773608883521" duration="9251000" />
+      <workItem from="1773608883521" duration="12566000" />
     </task>
     <servers />
   </component>
