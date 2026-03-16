@@ -5,65 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/AgainTwentyFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AgainTwentyFive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/AmusingJoke.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AmusingJoke.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/AntonAndDanik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AntonAndDanik.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/AntonAndLetters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AntonAndLetters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/AntonAndPolyhedrons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AntonAndPolyhedrons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/ArrivalOfTheGeneral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/ArrivalOfTheGeneral.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/BearAndBigBrother.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BearAndBigBrother.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/BeautifulMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BeautifulMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/BeautifulYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BeautifulYear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/BitPlusPlus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BitPlusPlus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/BoyOrGirl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BoyOrGirl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/BuyAShovel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BuyAShovel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/CalculatingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/CalculatingFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/CandiesAndTwoSisters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/CandiesAndTwoSisters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/DivisibilityProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/DivisibilityProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/DominoPiling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/DominoPiling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Drinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Drinks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Elephant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Elephant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/FoxAndSnake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/FoxAndSnake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/GameWithInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/GameWithInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Games.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Games.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/GeorgeAndAccommodation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/GeorgeAndAccommodation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/HelpfulMaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/HelpfulMaths.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/HitTheLottery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/HitTheLottery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Hulk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Hulk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/ILoveUsername.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/ILoveUsername.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/IWannaBeTheGuy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/IWannaBeTheGuy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/InSearchOfAnEasyProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/InSearchOfAnEasyProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/InsomniaCure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/InsomniaCure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/IsYourHorseShoeOnTheOtherHoof.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/IsYourHorseShoeOnTheOtherHoof.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Magnets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Magnets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/NearlyLuckyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/NearlyLuckyNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/NewYearAndHurry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/NewYearAndHurry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/NextRound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/NextRound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Pangram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Pangram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/PetyaAndString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/PetyaAndString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/PoliceRecruits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/PoliceRecruits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Presents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Presents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/QueueAtTheSchool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/QueueAtTheSchool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/SerejaAndDima.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/SerejaAndDima.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/SoftDrinking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/SoftDrinking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/SoldierAndBananas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/SoldierAndBananas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/StoneOnTheTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/StoneOnTheTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/SumOfRoundNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/SumOfRoundNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Team.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/TheNewYearMeetingFriends.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/TheNewYearMeetingFriends.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Tram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Tram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Translation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Translation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/UltraFastMathematician.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/UltraFastMathematician.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/VanyaAndFence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/VanyaAndFence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Watermelon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Watermelon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/WayTooLongWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/WayTooLongWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Word.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/WordCapitalization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/WordCapitalization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/WrongSubtraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/WrongSubtraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/YesOrYes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/YesOrYes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +137,7 @@
       <workItem from="1772957451966" duration="2561000" />
       <workItem from="1773228191935" duration="4949000" />
       <workItem from="1773299432822" duration="778000" />
-      <workItem from="1773608883521" duration="3630000" />
+      <workItem from="1773608883521" duration="4817000" />
     </task>
     <servers />
   </component>
