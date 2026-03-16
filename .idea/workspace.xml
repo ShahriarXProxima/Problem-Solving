@@ -5,7 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/AgainTwentyFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AgainTwentyFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/AmusingJoke.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AmusingJoke.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/AntonAndDanik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AntonAndDanik.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/AntonAndLetters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AntonAndLetters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/AntonAndPolyhedrons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/AntonAndPolyhedrons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ArrivalOfTheGeneral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/ArrivalOfTheGeneral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/BearAndBigBrother.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BearAndBigBrother.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/BeautifulMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BeautifulMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/BeautifulYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BeautifulYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/BitPlusPlus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BitPlusPlus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/BoyOrGirl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BoyOrGirl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/BuyAShovel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/BuyAShovel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/CalculatingFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/CalculatingFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/CandiesAndTwoSisters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/CandiesAndTwoSisters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/DivisibilityProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/DivisibilityProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/DominoPiling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/DominoPiling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Drinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Drinks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Elephant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Elephant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/FoxAndSnake.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/FoxAndSnake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/GameWithInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/GameWithInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Games.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Games.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/GeorgeAndAccommodation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/GeorgeAndAccommodation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/HelpfulMaths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/HelpfulMaths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/HitTheLottery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/HitTheLottery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Hulk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Hulk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/ILoveUsername.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/ILoveUsername.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/IWannaBeTheGuy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/IWannaBeTheGuy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/InSearchOfAnEasyProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/InSearchOfAnEasyProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/InsomniaCure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/InsomniaCure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/IsYourHorseShoeOnTheOtherHoof.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/IsYourHorseShoeOnTheOtherHoof.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Magnets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Magnets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/NearlyLuckyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/NearlyLuckyNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/NewYearAndHurry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/NewYearAndHurry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/NextRound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/NextRound.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Pangram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Pangram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/PetyaAndString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/PetyaAndString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/PoliceRecruits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/PoliceRecruits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Presents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Presents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/QueueAtTheSchool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/QueueAtTheSchool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/SerejaAndDima.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/SerejaAndDima.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/SoftDrinking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/SoftDrinking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/SoldierAndBananas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/SoldierAndBananas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/StoneOnTheTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/StoneOnTheTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/SumOfRoundNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/SumOfRoundNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Team.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/TheNewYearMeetingFriends.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/TheNewYearMeetingFriends.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Tram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Tram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Translation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Translation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/UltraFastMathematician.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/UltraFastMathematician.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/VanyaAndFence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/VanyaAndFence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Watermelon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Watermelon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/WayTooLongWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/WayTooLongWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/Word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/WordCapitalization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/WordCapitalization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/WrongSubtraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/WrongSubtraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/YesOrYes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/YesOrYes.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +76,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="69" />
+    <option name="cachedIndexableFilesCount" value="82" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -64,48 +122,49 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AgainTwentyFive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AmusingJoke.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AntonAndLetters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AntonAndPolyhedrons.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CandiesAndTwoSisters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FoxAndSnake.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GameWithInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Games.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ILoveUsername.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NewYearAndHurry.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PoliceRecruits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SerejaAndDima.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SoftDrinking.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfRoundNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TheNewYearMeetingFriends.executor&quot;: &quot;Run&quot;,
-    &quot;Application.YesOrYes.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AgainTwentyFive.executor": "Run",
+    "Application.AmusingJoke.executor": "Run",
+    "Application.AntonAndLetters.executor": "Run",
+    "Application.AntonAndPolyhedrons.executor": "Run",
+    "Application.BlankSpace.executor": "Run",
+    "Application.CandiesAndTwoSisters.executor": "Run",
+    "Application.FoxAndSnake.executor": "Run",
+    "Application.GameWithInteger.executor": "Run",
+    "Application.Games.executor": "Run",
+    "Application.ILoveUsername.executor": "Run",
+    "Application.NewYearAndHurry.executor": "Run",
+    "Application.PoliceRecruits.executor": "Run",
+    "Application.SerejaAndDima.executor": "Run",
+    "Application.SoftDrinking.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.SumOfRoundNumbers.executor": "Run",
+    "Application.TheNewYearMeetingFriends.executor": "Run",
+    "Application.YesOrYes.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -136,6 +195,7 @@
       <workItem from="1772957451966" duration="2561000" />
       <workItem from="1773228191935" duration="4949000" />
       <workItem from="1773299432822" duration="778000" />
+      <workItem from="1773608883521" duration="3630000" />
     </task>
     <servers />
   </component>
