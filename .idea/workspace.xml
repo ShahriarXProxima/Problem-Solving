@@ -73,6 +73,7 @@
     "Application.BlankSpace.executor": "Run",
     "Application.CandiesAndTwoSisters.executor": "Run",
     "Application.CreatingWords.executor": "Run",
+    "Application.DesignTutorialLearnFromMath.executor": "Run",
     "Application.DislikeOfThrees.executor": "Run",
     "Application.FoxAndSnake.executor": "Run",
     "Application.GameWithInteger.executor": "Run",
@@ -148,7 +149,7 @@
       <workItem from="1773299432822" duration="778000" />
       <workItem from="1773608883521" duration="14504000" />
       <workItem from="1773686606440" duration="1482000" />
-      <workItem from="1773739741218" duration="3058000" />
+      <workItem from="1773739741218" duration="4631000" />
     </task>
     <servers />
   </component>
