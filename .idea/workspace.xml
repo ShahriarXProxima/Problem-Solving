@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/DislikeOfThrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/DislikeOfThrees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Spring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LineTrip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Minimize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Minimize.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +79,7 @@
     "Application.HolidayOfEquality.executor": "Run",
     "Application.ILoveUsername.executor": "Run",
     "Application.LineTrip.executor": "Run",
+    "Application.Minimize.executor": "Run",
     "Application.NewYearAndHurry.executor": "Run",
     "Application.PassingTheBall.executor": "Run",
     "Application.PoliceRecruits.executor": "Run",
@@ -149,7 +147,7 @@
       <workItem from="1773299432822" duration="778000" />
       <workItem from="1773608883521" duration="14504000" />
       <workItem from="1773686606440" duration="1482000" />
-      <workItem from="1773739741218" duration="1060000" />
+      <workItem from="1773739741218" duration="1501000" />
     </task>
     <servers />
   </component>
