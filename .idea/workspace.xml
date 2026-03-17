@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="561dc726-2001-416f-84f5-fba34cee0638" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Minimize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Minimize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,7 @@
     "Application.AntonAndPolyhedrons.executor": "Run",
     "Application.BlankSpace.executor": "Run",
     "Application.CandiesAndTwoSisters.executor": "Run",
+    "Application.CreatingWords.executor": "Run",
     "Application.DislikeOfThrees.executor": "Run",
     "Application.FoxAndSnake.executor": "Run",
     "Application.GameWithInteger.executor": "Run",
@@ -147,7 +148,7 @@
       <workItem from="1773299432822" duration="778000" />
       <workItem from="1773608883521" duration="14504000" />
       <workItem from="1773686606440" duration="1482000" />
-      <workItem from="1773739741218" duration="1501000" />
+      <workItem from="1773739741218" duration="3058000" />
     </task>
     <servers />
   </component>
