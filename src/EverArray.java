@@ -1,0 +1,34 @@
+import java.util.Scanner;
+
+public class EverArray {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        int test = input.nextInt();
+        while (test-- > 0) {
+            int n = input.nextInt();
+            int[] arr = new int[n];
+
+            for (int i = 0; i < n; i++) {
+                arr[i] = input.nextInt();
+            }
+
+            int a = 0, b = 0;
+            for (int i = 0; i < n; i++) {
+                if (i % 2 == 0 && arr[i] % 2 != 0) {
+                    a++;
+                }
+                if (i % 2 != 0 && arr[i] % 2 == 0) {
+                    b++;
+                }
+            }
+
+            if (a == b) {
+                System.out.println(a);
+            } else {
+                System.out.println(-1);
+            }
+        }
+    }
+}
+
