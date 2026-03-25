@@ -10,13 +10,10 @@ public class RequiredRemainder {
             int y = input.nextInt();
             int n = input.nextInt();
 
-            int remainder = y % x;
-            int requiredReminder = 0;
-            for (int i = n; i >= 0; i--) {
-                if ((i % x) == remainder) {
-                    requiredReminder = i;
-                    break;
-                }
+            int z = (n / x) * x;
+            int requiredReminder = z + y;
+            if (requiredReminder > n) {
+                requiredReminder -= x;
             }
             System.out.println(requiredReminder);
         }
