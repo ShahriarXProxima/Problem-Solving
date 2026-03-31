@@ -5,15 +5,21 @@ public class VanyaAndCubes {
         Scanner input = new Scanner(System.in);
 
         int n = input.nextInt();
-        int count = 0;
-        int cubes = 0;
+        int height = 0;
+        int cubeUsed = 0;
 
-        for (int i = 1; i <= n; i++) {
-            cubes = cubes + (i - 1);
-            if (cubes <= n) {
-                count++;
+        while (true) {
+            int nextLevel = height + 1;
+            int cubesForNextLevel = nextLevel * (nextLevel + 1) / 2;
+
+            if (cubesForNextLevel + cubeUsed > n) {
+                break;
             }
+
+            cubeUsed += cubesForNextLevel;
+            height++;
         }
-        System.out.println(count);
+
+        System.out.print(height);
     }
 }
