@@ -19,7 +19,6 @@ public class BoringApartments {
                         break;
                     }
                 }
-
             }
             System.out.println(keyPressed);
         }
