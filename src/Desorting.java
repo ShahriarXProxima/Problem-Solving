@@ -7,6 +7,7 @@ public class Desorting {
         int test = input.nextInt();
         while(test-->0){
 
+
         }
     }
 }
