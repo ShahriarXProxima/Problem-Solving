@@ -4,21 +4,21 @@ public class MaximumIncrease {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        int ans = 0;
-        int current;
-        int previous = 0;
-
         int n = input.nextInt();
-        for (int i = 0; i < n; i++) {
-            current = input.nextInt();
-            if (current > previous) {
-                ans++;
-                previous = current;
-                continue;
-            }
-            ans = 1;
-        }
+        int ans = 1;
+        int previous = input.nextInt();
+        int currentAns = 1;
 
+        for (int i = 1; i < n; i++) {
+            int current = input.nextInt();
+            if (current > previous) {
+                currentAns++;
+                ans = Math.max(currentAns, ans);
+            } else {
+                currentAns = 1;
+            }
+            previous = current;
+        }
         System.out.println(ans);
     }
 }
