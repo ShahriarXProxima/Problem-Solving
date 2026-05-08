@@ -7,9 +7,9 @@ public class CanISquare {
         int test = input.nextInt();
         while (test-- > 0) {
             int n = input.nextInt();
-            int totalSquare = 0;
+            Long totalSquare = 0L;
             for (int i = 0; i < n; i++) {
-                totalSquare += input.nextInt();
+                totalSquare += input.nextLong();
             }
 
             double squareRoot = Math.sqrt(totalSquare);
