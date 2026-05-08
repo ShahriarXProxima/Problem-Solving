@@ -7,16 +7,18 @@ public class CollectingCoins {
         int test = input.nextInt();
         while (test-- > 0) {
             int totalCoins = 0;
-            for (int i = 1; i <= 4; i++) {
-                totalCoins += input.nextInt();
+            int[] coins = new int[4];
+            for (int i = 0; i < 4; i++) {
+                coins[i] = input.nextInt();
+                totalCoins += coins[i];
             }
 
-            if (totalCoins % 3 == 0) {
+            int max = Math.max(coins[0], Math.max(coins[2], coins[1]));
+            if (totalCoins % 3 == 0 && totalCoins / 3 >= max) {
                 System.out.println("YES");
-                continue;
+            } else {
+                System.out.println("NO");
             }
-            System.out.println("NO");
         }
     }
 }
-
