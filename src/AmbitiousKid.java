@@ -11,6 +11,6 @@ public class AmbitiousKid {
             min = Math.min(min, Math.abs(num));
         }
 
-        System.out.println(Math.abs(min));
+        System.out.println(min);
     }
 }
