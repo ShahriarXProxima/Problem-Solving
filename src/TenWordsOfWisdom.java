@@ -7,18 +7,19 @@ public class TenWordsOfWisdom {
         int test = input.nextInt();
         while (test-- > 0) {
             int n = input.nextInt();
-            int idx = 0;
-            int previousQuality = Integer.MIN_VALUE;
+            int bestQuality = -1;
+            int winner = -1;
 
             for (int i = 1; i <= n; i++) {
-                int currentWords = input.nextInt();
-                int currentQuality = input.nextInt();
-                if (currentWords <= 10 && currentQuality > previousQuality) {
-                    idx = i;
+                int a = input.nextInt();
+                int b = input.nextInt();
+
+                if (a <= 10 && b > bestQuality) {
+                    bestQuality = b;
+                    winner = i;
                 }
-                previousQuality = currentQuality;
             }
-            System.out.println(idx);
+            System.out.println(winner);
         }
     }
 }
