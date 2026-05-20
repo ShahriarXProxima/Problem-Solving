@@ -24,7 +24,6 @@ public class FavoriteSequence {
                 System.out.print(sequence[left] + " ");
             }
             System.out.println();
-
         }
     }
 }
