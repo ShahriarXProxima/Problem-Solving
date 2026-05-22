@@ -6,6 +6,8 @@ public class ClockConversion {
 
         int test = input.nextInt();
         while (test-->0){
+            String time = input.next();
+
 
         }
     }
