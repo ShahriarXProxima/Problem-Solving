@@ -17,9 +17,9 @@ public class ProblemGenerator {
             }
 
             int totalProblemNeeded = 0;
-            for (int i = 0; i < count.length; i++) {
-                if (count[i] < round) {
-                    totalProblemNeeded += round - count[i];
+            for (int j : count) {
+                if (j < round) {
+                    totalProblemNeeded += round - j;
                 }
             }
             System.out.println(totalProblemNeeded);
