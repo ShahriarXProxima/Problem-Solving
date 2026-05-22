@@ -7,6 +7,10 @@ public class ClockConversion {
         int test = input.nextInt();
         while (test-->0){
             String time = input.next();
+            String hourString = time.substring(0,1);
+            int hour = Integer.parseInt(hourString);
+
+
 
 
         }
