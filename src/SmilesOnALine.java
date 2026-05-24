@@ -36,6 +36,7 @@ public class SmilesOnALine {
 
     public static boolean isEqual(int[] arr) {
         if (arr.length <= 1) return true;
+
         int firstElement = arr[0];
         for (int i = 1; i < arr.length; i++) {
             if (arr[i] != firstElement) return false;
