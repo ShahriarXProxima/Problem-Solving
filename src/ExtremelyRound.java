@@ -8,24 +8,17 @@ public class ExtremelyRound {
         while (test-- > 0) {
             int num = input.nextInt();
             int count = 0;
+            int power = 1;
 
-            for (int i = 1; i <= num; i++) {
-                String numString = Integer.toString(i);
-                if (numString.length() == 1) {
-                    count++;
-                    continue;
-                }
-                boolean flag = true;
-                for (int j = 1; j < numString.length(); j++) {
-                    if (numString.charAt(j) != '0') {
-                        flag = false;
-                        break;
+            while (power <= num) {
+                for (int digit = 1; digit <= 9; digit++) {
+                    if ((long) digit * power <= num) {
+                        count++;
                     }
                 }
-                if (flag) {
-                    count++;
-                }
+                power *= 10;
             }
+
             System.out.println(count);
         }
     }
