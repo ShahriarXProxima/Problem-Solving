@@ -5,12 +5,12 @@ public class FreeIceCream {
         Scanner input = new Scanner(System.in);
 
         int n = input.nextInt();
-        int x = input.nextInt();
+        long x = input.nextLong();
 
         int distress = 0;
         for (int i = 0; i < n; i++) {
             char sign = input.next().charAt(0);
-            int iceCream = input.nextInt();
+            long iceCream = input.nextLong();
 
             if (sign == '+') {
                 x += iceCream;
