@@ -12,6 +12,7 @@ public class PrefixMax {
             for (int i = 0; i < n; i++) {
                 max = Math.max(max, input.nextInt());
             }
+
             System.out.println(max * n);
         }
     }
