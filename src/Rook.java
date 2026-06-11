@@ -10,21 +10,22 @@ public class Rook {
 
             char letter = rook.charAt(0);
             int number = Integer.parseInt(rook.substring(1));
+            char ch = 'a';
 
-            for (int i = 1; i <= 8; i++) {
-                if (i == number) {
-                    continue;
-                }
-                System.out.print(letter + "" + i+ " ");
-            }
-            char ch = '`';
             for (int i = 1; i <= 8; i++) {
                 if (ch == letter) {
                     ch += 1;
                     continue;
                 }
-                System.out.print((char) (ch + 1) + "" + number+" ");
+                System.out.print((ch) + "" + number + " ");
                 ch += 1;
+            }
+
+            for (int i = 1; i <= 8; i++) {
+                if (i == number) {
+                    continue;
+                }
+                System.out.print(letter + "" + i + " ");
             }
             System.out.println();
         }
