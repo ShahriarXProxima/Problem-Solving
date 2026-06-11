@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class PrefixMax {
@@ -8,13 +7,12 @@ public class PrefixMax {
         int test = input.nextInt();
         while (test-- > 0) {
             int n = input.nextInt();
-            int[] arr = new int[n];
+            int max = Integer.MIN_VALUE;
 
             for (int i = 0; i < n; i++) {
-                arr[i] = input.nextInt();
+                max = Math.max(max, input.nextInt());
             }
-            Arrays.sort(arr);
-            System.out.println(arr[arr.length - 1] * n);
+            System.out.println(max * n);
         }
     }
 }
