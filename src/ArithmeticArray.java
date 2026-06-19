@@ -12,8 +12,10 @@ public class ArithmeticArray {
                 sum += input.nextInt();
             }
 
-            if (sum > 1) {
+            if (sum > n) {
                 System.out.println(sum - n);
+            } else if (sum == n) {
+                System.out.println(0);
             } else {
                 System.out.println(1);
             }
