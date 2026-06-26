@@ -13,7 +13,7 @@ public class LinearKeyboard {
 
             Map<Character, Integer> keyMap = new HashMap<>();
             for (int i = 0; i < alphabet.length(); i++) {
-                keyMap.put(alphabet.charAt(i), i);
+                keyMap.put(alphabet.charAt(i), i + 1);
             }
 
             int sum = 0;
