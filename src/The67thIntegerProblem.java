@@ -7,7 +7,7 @@ public class The67thIntegerProblem {
         int test = input.nextInt();
         while (test-- > 0) {
             int x = input.nextInt();
-            System.out.println(++x);
+            System.out.println(x);
         }
     }
 }
