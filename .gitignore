@@ -15,6 +15,9 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+.idea
+.gitignore
+Problem Solving.iml
 
 ### NetBeans ###
 /nbproject/private/
