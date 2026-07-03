@@ -7,7 +7,6 @@ public class Maximize {
         int test= input.nextInt();
         while(test-->0){
             int x= input.nextInt();
-            System.out.println(x-1);
         }
     }
 }
