@@ -8,7 +8,7 @@ public class LittleNikita {
         while (test-- > 0) {
             int n = input.nextInt(), m = input.nextInt();
 
-            if (n >= m) {
+            if (n >= m && (n - m) % 2 == 0) {
                 System.out.println("YES");
                 continue;
             }
