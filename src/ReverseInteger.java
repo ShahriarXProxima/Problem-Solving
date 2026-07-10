@@ -12,12 +12,15 @@ public class ReverseInteger {
             reverseX.append(xString.charAt(i));
         }
 
-        int num = Integer.parseInt(reverseX.toString());
-
+        long num = Long.parseLong(reverseX.toString());
         if (sign == '-') {
-            return -1 * num;
-        } else {
-            return num;
+            num = -1 * num;
         }
+
+        if (num > Integer.MAX_VALUE || num < Integer.MIN_VALUE) {
+            return 0;
+        }
+
+        return (int) num;
     }
 }
