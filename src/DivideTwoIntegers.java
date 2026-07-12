@@ -4,23 +4,24 @@ public class DivideTwoIntegers {
             return Integer.MAX_VALUE;
         }
 
-        char sign = '+';
-        if ((dividend < 0 && divisor > 0) || (dividend > 0 && divisor < 0)) {
-            sign = '-';
+        boolean isNegative = (dividend < 0) != (divisor < 0);
+
+        int a = (dividend < 0) ? dividend : -dividend;
+        int b = (divisor < 0) ? divisor : -divisor;
+
+        int quotient = 0;
+        while (a <= b) {
+            int temp_b = b;
+            int multiple = 1;
+
+            while (temp_b >= -1073741824 && temp_b + temp_b >= a) {
+                temp_b += temp_b;
+                multiple += multiple;
+            }
+            a -= temp_b;
+            quotient -= multiple;
+
         }
-
-        long longDividend = Math.abs((long) dividend);
-        long longDivisor = Math.abs((long) divisor);
-
-        long quotient = 0;
-        for (long i = longDivisor; i <= longDividend; i += longDivisor) {
-            quotient++;
-        }
-
-        if (sign == '-') {
-            return (int) (-quotient);
-        }
-
-        return (int) quotient;
+        return isNegative ? quotient : -quotient;
     }
 }
