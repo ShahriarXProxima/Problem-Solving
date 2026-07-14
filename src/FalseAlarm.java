@@ -32,7 +32,6 @@ public class FalseAlarm {
             } else {
                 System.out.println("NO");
             }
-
         }
     }
 }
