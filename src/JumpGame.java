@@ -12,10 +12,6 @@ public class JumpGame {
             if (farthest >= nums.length - 1) {
                 return true;
             }
-
-
-
-
         }
         return true;
     }
