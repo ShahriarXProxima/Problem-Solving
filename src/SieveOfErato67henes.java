@@ -14,7 +14,7 @@ public class SieveOfErato67henes {
                 set.add(input.nextInt());
             }
 
-            if (set.contains(67) && set.contains(1)) {
+            if (set.contains(67)) {
                 System.out.println("YES");
             } else {
                 System.out.println("NO");
