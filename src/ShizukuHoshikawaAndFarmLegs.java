@@ -13,7 +13,7 @@ public class ShizukuHoshikawaAndFarmLegs {
                 continue;
             }
 
-            System.out.println((int) (n / 4) + 1);
+            System.out.println((n / 4) + 1);
         }
     }
 }
