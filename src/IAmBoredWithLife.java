@@ -5,11 +5,7 @@ public class IAmBoredWithLife {
         Scanner input = new Scanner(System.in);
 
         int a = input.nextInt(), b = input.nextInt();
-        System.out.println(getGcd(getFact(a), getFact(b)));
-    }
-
-    public static int getGcd(int a, int b) {
-        return b == 0 ? a : getGcd(b, a % b);
+        System.out.println(getFact(Math.min(a,b)));
     }
 
     public static int getFact(int n) {
