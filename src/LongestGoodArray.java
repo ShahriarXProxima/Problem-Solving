@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class LongestGoodArray {
@@ -10,15 +9,7 @@ public class LongestGoodArray {
             int l = input.nextInt();
             int r = input.nextInt();
 
-            int track = 0;
-            ArrayList<Integer> goodArray = new ArrayList<>();
-            while (l <= r) {
-                l += track;
-                goodArray.add(l);
-                track++;
-            }
 
-            System.out.println(goodArray.size() - 1);
         }
     }
 }
