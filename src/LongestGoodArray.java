@@ -6,10 +6,11 @@ public class LongestGoodArray {
 
         int test = input.nextInt();
         while (test-- > 0) {
-            int l = input.nextInt();
-            int r = input.nextInt();
+            long l = input.nextInt();
+            long r = input.nextInt();
 
-
+            long diff = r - l;
+            System.out.println((long) ((Math.sqrt(1 + 8.0 * diff) - 1) / 2) + 1);
         }
     }
 }
