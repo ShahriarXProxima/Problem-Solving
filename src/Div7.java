@@ -12,14 +12,13 @@ public class Div7 {
                 continue;
             }
 
-            String numify = Integer.toString(n);
-            if (numify.length() == 1) {
-                System.out.println(7);
-            } else if (numify.length() == 2) {
-                System.out.println(21);
-            } else if (numify.length() == 3) {
-                System.out.println(777);
+            int back = n, forth = n;
+            while (back % 7 != 0 && forth % 7 != 0) {
+                back--;
+                forth++;
+                n = Math.min(back, forth);
             }
+            System.out.println(n);
         }
     }
 }
