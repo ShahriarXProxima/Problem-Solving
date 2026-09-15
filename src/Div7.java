@@ -7,18 +7,23 @@ public class Div7 {
         int test = input.nextInt();
         while (test-- > 0) {
             int n = input.nextInt();
-            if (n % 7 == 0) {
-                System.out.println(n);
-                continue;
+
+            int back = n;
+            int forth = n;
+
+            while (back % 7 != 0) {
+                back--;
             }
 
-            int back = n, forth = n;
-            while (back % 7 != 0 && forth % 7 != 0) {
-                back--;
+            while (forth % 7 != 0) {
                 forth++;
-                n = Math.min(back, forth);
             }
-            System.out.println(n);
+
+            if (n - back < forth - n) {
+                System.out.println(back);
+            } else {
+                System.out.println(forth);
+            }
         }
     }
 }
