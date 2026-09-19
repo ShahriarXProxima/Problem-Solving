@@ -20,6 +20,7 @@ public class ArrangingCats {
                 }
             }
 
+
             System.out.println(Math.max(add, remove));
         }
     }
