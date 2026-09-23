@@ -12,7 +12,7 @@ public class GregorAndCryptography {
                 continue;
             }
             int a = 2;
-            int b = p / 2;
+            int b = p / a;
 
             System.out.println(a + " " + b);
         }
