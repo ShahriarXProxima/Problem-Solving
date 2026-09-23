@@ -7,11 +7,28 @@ public class PrintAPedestal {
         int test = input.nextInt();
         while (test-- > 0) {
             int n = input.nextInt();
-            int h2 = 2;
-            int h3 = 1;
-            int h1 = n - (h2 + h3);
+            int base = n / 3;
+            int rem = n % 3;
+
+            int h1, h2, h3;
+
+            if (rem == 0) {
+                h1 = base + 1;
+                h2 = base;
+                h3 = base - 1;
+            } else if (rem == 1) {
+                h1 = base + 2;
+                h2 = base;
+                h3 = base - 1;
+            } else {
+                h1 = base + 2;
+                h2 = base + 1;
+                h3 = base - 1;
+            }
 
             System.out.println(h2 + " " + h1 + " " + h3);
+
+
         }
     }
 }
