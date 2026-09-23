@@ -12,13 +12,16 @@ public class Riptide {
             for (int i = 0; i < 3; i++) {
                 arr[i] = input.nextInt();
             }
-            Arrays.sort(arr);
 
-            if (arr[0] == arr[1] || arr[1] == arr[2] || arr[2] == arr[0]) {
-                System.out.println(0);
-                continue;
+            while (true) {
+                if (arr[0] == arr[1] || arr[1] == arr[2] || arr[2] == arr[0]) {
+                    break;
+                }
+                Arrays.sort(arr);
+                arr[0]++;
+                arr[2]--;
+                gameRound++;
             }
-            gameRound = arr[2] - arr[1];
             System.out.println(gameRound);
         }
     }
