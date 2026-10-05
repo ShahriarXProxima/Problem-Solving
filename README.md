@@ -15,9 +15,9 @@ This repository documents my problem-solving journey, which began in **January 2
 
 ## 🛠️ Tech Stack
 
-- **Language:** Java
+- **Language:** Java, Python
 - **Platforms:** Codeforces, LeetCode
-- **IDE:** IntelliJ IDEA 
+- **IDE:** IntelliJ IDEA, VS code
 
 ## 🔥 Problem Categories
 
