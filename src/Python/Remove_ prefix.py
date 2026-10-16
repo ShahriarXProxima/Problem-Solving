@@ -3,10 +3,12 @@ test = int(input())
 while test > 0:
     n = int(input())
     nums = list(map(int, input().split()))
-    count = 0
-    while len(nums) > len(set(nums)):
-        nums.pop(0)
-        count += 1
+    seen = set()
 
-    print(count)
+    for i in range(n - 1, -1, -1):
+        if nums[i] in seen:
+            break
+        seen.add(nums[i])
+
+    print(n - len(seen))
     test -= 1
